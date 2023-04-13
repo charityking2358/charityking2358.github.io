@@ -16,8 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## Peer-Reviewed Publications
-======
-
+---
 * <b> Characterizing Chinese Information Campaigns</b><br>
 Charity S. Jacobs<br>
 <i>Dissertation Proposal</i><br>
@@ -37,7 +36,7 @@ Charity S. Jacobs and Kathleen M. Carley <br>
 <i> Small Wars Journal, 2022</i><br>
 
 ## Journal Publications
-======
+---
 * <b>[Data as a Weapon: Psychological Operations in the Age of Irregular Information Threats](https://mwi.usma.edu/data-as-a-weapon-psychological-operations-in-the-age-of-irregular-information-threats/)</b><br>
 Jon Reisher, Charity Jacobs, and John Beasley<br>
 <i>Modern War Institute, 2022 </i>
