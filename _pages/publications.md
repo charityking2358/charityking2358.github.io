@@ -14,3 +14,15 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Peer-Reviewed Publications
+======
+ 
+* <b>#WhatIsDemocracy: Finding Key Actors in a Chinese Information Campaign</b><br>
+Charity S. Jacobs and Kathleen M. Carley<br>
+<i>Under Review at Computational and Mathematical Organization Theory</i>
+
+* <b>[#WhoDefinesDemocracy:  Analysis on a 2021 Chinese Messaging Campaign](https://link.springer.com/chapter/10.1007/978-3-031-17114-7_9)</b><br>
+Charity S. Jacobs and Kathleen M. Carley <br>
+<i> SBP-BRiMS, 2022</i><br>
+[PDF](https://kingcatherine.github.io/files/brims22.pdf)
