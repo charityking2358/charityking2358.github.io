@@ -32,7 +32,7 @@ Charity S. Jacobs and Kathleen M. Carley <br>
 <i> SBP-BRiMS, 2022</i><br>
 [PDF](https://charityking2358.github.io/files/brims22.pdf)
 
-* <b>[Taiwan: China's Grayzone Doctrine in Action]([https://link.springer.com/chapter/10.1007/978-3-031-17114-7_9](https://smallwarsjournal.com/jrnl/art/taiwan-chinas-gray-zone-doctrine-action))</b><br>
+* <b>[Taiwan: China's Grayzone Doctrine in Action](https://link.springer.com/chapter/10.1007/978-3-031-17114-7_9](https://smallwarsjournal.com/jrnl/art/taiwan-chinas-gray-zone-doctrine-action)</b><br>
 Charity S. Jacobs and Kathleen M. Carley <br>
 <i> Small Wars Journal, 2022</i><br>
 
