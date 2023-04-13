@@ -17,6 +17,11 @@ author_profile: true
 
 Peer-Reviewed Publications
 ======
+
+* <b> Characterizing Chinese Information Campaigns</b><br>
+Charity S. Jacobs<br>
+<i>Dissertation Proposal</i>
+ [PDF](https://charityking2358.github.io/files/Thesis_Proposal_Jacobs.pdf.pdf)
  
 * <b>#WhatIsDemocracy: Finding Key Actors in a Chinese Information Campaign</b><br>
 Charity S. Jacobs and Kathleen M. Carley<br>
@@ -25,4 +30,10 @@ Charity S. Jacobs and Kathleen M. Carley<br>
 * <b>[#WhoDefinesDemocracy:  Analysis on a 2021 Chinese Messaging Campaign](https://link.springer.com/chapter/10.1007/978-3-031-17114-7_9)</b><br>
 Charity S. Jacobs and Kathleen M. Carley <br>
 <i> SBP-BRiMS, 2022</i><br>
-[PDF](https://kingcatherine.github.io/files/brims22.pdf)
+[PDF](https://charityking2358.github.io/files/brims22.pdf)
+
+Journal Publications
+======
+* <b>[Data as a Weapon: Psychological Operations in the Age of Irregular Information Threats](https://mwi.usma.edu/data-as-a-weapon-psychological-operations-in-the-age-of-irregular-information-threats/)</b><br>
+Jon Reisher, Charity Jacobs, and John Beasley<br>
+<i>Modern War Institute, 2022 </i>
