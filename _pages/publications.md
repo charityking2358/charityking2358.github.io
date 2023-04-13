@@ -21,7 +21,7 @@ author_profile: true
 * <b> Characterizing Chinese Information Campaigns</b><br>
 Charity S. Jacobs<br>
 <i>Dissertation Proposal</i><br>
- [PDF](https://charityking2358.github.io/files/Thesis_Proposal_Jacobs.pdf.pdf)
+ [PDF](https://charityking2358.github.io/files/Thesis_Proposal_Jacobs.pdf)
  
 * <b>#WhatIsDemocracy: Finding Key Actors in a Chinese Information Campaign</b><br>
 Charity S. Jacobs and Kathleen M. Carley<br>
