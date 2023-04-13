@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Charity Jacobs"
-  avatar           : Charity_Pic2.JPG
+  avatar           : "images/Charity_Pic2.JPG"
   bio              : "Ph.D. Student, Carnegie Mellon University"
   location         : "Pittsburgh, Pennsylvania"
   employer         :
