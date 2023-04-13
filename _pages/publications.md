@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Peer-Reviewed Publications
+## Peer-Reviewed Publications
 ======
 
 * <b> Characterizing Chinese Information Campaigns</b><br>
@@ -32,7 +32,11 @@ Charity S. Jacobs and Kathleen M. Carley <br>
 <i> SBP-BRiMS, 2022</i><br>
 [PDF](https://charityking2358.github.io/files/brims22.pdf)
 
-Journal Publications
+* <b>[Taiwan: China's Grayzone Doctrine in Action]([https://link.springer.com/chapter/10.1007/978-3-031-17114-7_9](https://smallwarsjournal.com/jrnl/art/taiwan-chinas-gray-zone-doctrine-action))</b><br>
+Charity S. Jacobs and Kathleen M. Carley <br>
+<i> Small Wars Journal, 2022</i><br>
+
+## Journal Publications
 ======
 * <b>[Data as a Weapon: Psychological Operations in the Age of Irregular Information Threats](https://mwi.usma.edu/data-as-a-weapon-psychological-operations-in-the-age-of-irregular-information-threats/)</b><br>
 Jon Reisher, Charity Jacobs, and John Beasley<br>
